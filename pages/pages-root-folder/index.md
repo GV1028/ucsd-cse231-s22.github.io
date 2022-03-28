@@ -32,7 +32,7 @@ title: "Advanced Compiler Design (UCSD CSE231)"
 
 - Yousef Alhessi
 - Kamran Alipour
-- Vignesh Gokul
+- Vignesh Gokul - <code> vgokul@eng.ucsd.edu</code>
 
 ## Material and Schedule
 
